@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import random
 
 def generate_random_tree(depth, max_children, used_nodes=list()):
